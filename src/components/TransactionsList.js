@@ -20,6 +20,8 @@ function TransactionsList() {
           </th>
         </tr>
         {/* render a list of <Transaction> components here */}
+        {TransactionsList}
+        {/* here is the answer */}
       </tbody>
     </table>
   );
